@@ -1,0 +1,21 @@
+candidate_id,rank,score,reasoning
+CAND_0000031,1,2.789373,Tier A: Recommendation Systems Engineer with 5 AI skills and history score 6.25.
+CAND_0000422,2,2.630530,Tier A: AI Research Engineer with 1 AI skills and history score 5.50.
+CAND_0000705,3,2.624853,Tier A: AI Research Engineer with 2 AI skills and history score 4.00.
+CAND_0000165,4,2.587500,Tier A: AI Specialist with 3 AI skills and history score 3.50.
+CAND_0000969,5,2.524953,Tier A: AI Specialist with 3 AI skills and history score 3.25.
+CAND_0000981,6,2.513740,Tier A: ML Engineer with 2 AI skills and history score 3.25.
+CAND_0000666,7,2.485320,Tier A: Data Scientist with 0 AI skills and history score 5.75.
+CAND_0000200,8,2.476420,Tier A: ML Engineer with 3 AI skills and history score 2.75.
+CAND_0000273,9,2.425290,Tier A: ML Engineer with 1 AI skills and history score 3.00.
+CAND_0000112,10,2.390833,Tier A: AI Specialist with 2 AI skills and history score 1.50.
+CAND_0000410,11,0.508413,Tier C: Graphic Designer with 6 AI skills and history score 3.25.
+CAND_0000883,12,0.506770,Tier C: Content Writer with 5 AI skills and history score 3.50.
+CAND_0000211,13,-0.482903,Tier D: Operations Manager with 6 AI skills and history score 1.00.
+CAND_0000664,14,-0.512523,Tier D: Accountant with 6 AI skills and history score 1.50.
+CAND_0000932,15,-0.513653,Tier D: Operations Manager with 8 AI skills and history score 0.25.
+CAND_0000576,16,-0.516247,Tier D: Content Writer with 8 AI skills and history score 0.50.
+CAND_0000862,17,-0.521967,Tier D: Content Writer with 7 AI skills and history score 1.25.
+CAND_0000399,18,-0.526400,Tier D: Business Analyst with 9 AI skills and history score 1.50.
+CAND_0000203,19,-0.533107,Tier D: Operations Manager with 6 AI skills and history score 0.50.
+CAND_0000083,20,-0.535723,Tier D: Graphic Designer with 8 AI skills and history score 0.75.
